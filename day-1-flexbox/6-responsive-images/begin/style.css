@@ -1,0 +1,6 @@
+@media (min-width: 1px) {
+  .bkgdimg {
+    background: url(img/mom-300.jpg) no-repeat;
+    height: 50px;
+  }
+}
